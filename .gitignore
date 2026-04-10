@@ -1,7 +1,4 @@
 # Ignorar arquivos de dados e bi
 *.xlsx
 *.pbix
-
-# Ignorar logs e pastas de ambiente virtual
-log.txt
 venv/
