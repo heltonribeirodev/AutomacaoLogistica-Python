@@ -18,6 +18,12 @@ try:
     base_bruta = pd.read_excel(caminho_origem)
     # print(base_bruta.info())
 
+    # Converte a coluna para numérico, transformando o que não for número em NaN
+    base_bruta['DIAS P/ ENTREGA'] = pd.to_numeric(base_bruta['DIAS P/ ENTREGA'], errors='coerce')
+
+    # Opcional: Remova linhas onde os dias de entrega são inválidos (NaN)
+    base_bruta = base_bruta.dropna(subset=['DIAS P/ ENTREGA'])
+
     estados_map = {
         'AC': 'Acre', 'AL': 'Alagoas', 'AP': 'Amapá', 'AM': 'Amazonas', 
         'BA': 'Bahia', 'CE': 'Ceará', 'DF': 'Distrito Federal', 'ES': 'Espírito Santo',

@@ -39,3 +39,52 @@
 02/04/2026 11:36:37 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
 02/04/2026 11:47:27 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
 09/04/2026 07:34:47 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+13/04/2026 14:08:59 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+13/04/2026 14:28:42 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+14/04/2026 07:39:35 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+15/04/2026 07:37:07 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+15/04/2026 15:13:37 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+16/04/2026 07:47:45 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+17/04/2026 07:42:17 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+22/04/2026 08:28:18 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+23/04/2026 07:40:53 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+24/04/2026 08:13:06 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+27/04/2026 08:59:57 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+28/04/2026 08:06:25 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+29/04/2026 07:32:06 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+29/04/2026 07:42:13 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+29/04/2026 07:52:29 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+30/04/2026 09:03:09 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+04/05/2026 07:56:47 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+04/05/2026 08:25:53 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+05/05/2026 07:59:43 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+05/05/2026 14:55:42 - Erro na automação: '>=' not supported between instances of 'datetime.time' and 'int'
+06/05/2026 07:50:33 - Erro na automação: '>=' not supported between instances of 'datetime.time' and 'int'
+07/05/2026 11:04:31 - Erro na automação: '>=' not supported between instances of 'datetime.time' and 'int'
+12/05/2026 08:52:48 - Erro na automação: '>=' not supported between instances of 'datetime.time' and 'int'
+12/05/2026 17:03:07 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+12/05/2026 17:04:45 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+13/05/2026 08:36:03 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+14/05/2026 08:28:17 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+15/05/2026 08:13:50 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+19/05/2026 08:25:01 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+20/05/2026 07:37:47 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+20/05/2026 08:08:56 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+21/05/2026 08:22:57 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+22/05/2026 08:12:48 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+25/05/2026 07:29:13 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+25/05/2026 08:10:09 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+26/05/2026 07:27:31 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+26/05/2026 07:49:29 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+27/05/2026 14:53:22 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+29/05/2026 07:32:13 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+01/06/2026 07:28:41 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+01/06/2026 08:01:41 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+02/06/2026 07:57:01 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+02/06/2026 08:12:43 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+03/06/2026 09:05:20 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+03/06/2026 09:35:23 - Erro na automação: [Errno 13] Permission denied: 'H:\\TI\\POWER BI\\LOGISTICA\\AUTOMAÇÃO FECHAMENTO MENSAL\\Fechamento Mensal.xlsx'
+03/06/2026 09:51:08 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+03/06/2026 10:58:52 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+08/06/2026 08:34:53 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
+09/06/2026 08:49:30 - Os dados foram consolidados com sucesso na sua planilha Fechamento Mensal.xlsx.
